@@ -23,4 +23,4 @@ client.on("interactionCreate", async (interaction) => {
     }
 });
 
-client.login("MTIyNDY4NDgyMDcwMTkwNDk5Nw.Gbvm1a.yZ83fPYSez33L5YSez-nAVKoD7P-FLEtawqdqw");
+client.login("MTIyNDY4NDgyMDcwMTkwNDk5Nw.Gbvm1a.yZ83fPYSez33L5YSez-nAVKoD7P-FLEtawqdqw"); // I know i exposed my bot token 😁
